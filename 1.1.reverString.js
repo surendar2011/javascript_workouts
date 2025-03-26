@@ -11,3 +11,4 @@ let reversedStr = reversedArray.join('');
 
 // Step 4: Print the result
 console.log(reversedStr); // Output: "olleh"
+ 
